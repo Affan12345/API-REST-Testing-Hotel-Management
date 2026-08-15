@@ -87,3 +87,31 @@ Response times and payload sizes
 
 Detailed assertion logs and HTTP headers
 
+Attach the Report file to the repository
+
+---
+
+## 🤝 Contributing & Feedback
+
+Contributions, issues, and feature requests are welcome! If you have any suggestions or find any bugs, feel free to open an issue or submit a pull request.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the **[MIT License](LICENSE)**.
+
+---
+
+## 🧑‍💻 Author
+
+**Affan**
+* GitHub: [@Affan12345](https://github.com/Affan12345)
+* Project Repo: [API-REST-Testing-Hotel-Management](https://github.com/Affan12345/API-REST-Testing-Hotel-Management)
+
+---
+
+<p align="center">
+  <b>⭐ If you found this project helpful, don't forget to give it a star on GitHub! ⭐</b>
+</p>
+
