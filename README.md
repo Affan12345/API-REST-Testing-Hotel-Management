@@ -24,14 +24,14 @@ The project also includes automated test assertions, authentication token manage
 ```text
 API-REST-Testing-Hotel-Management
 │
-├── Automation_Report
-│   └── API_Testing_Report.html
+│├── Postman_Collection
+│   └── API_Testing.postman_collection.json
 │
 ├── Environment
 │   └── EnvironmentAPITesting.postman_environment.json
 │
-├── Postman_Collection
-│   └── API_Testing.postman_collection.json
+├── Automation_Report
+│   └── API_Testing_Report.html
 │
 └── README.md
 
